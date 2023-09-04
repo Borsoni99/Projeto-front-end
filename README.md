@@ -21,20 +21,20 @@ quais dados serão retornados ao usuário:
   * Gráficos
   * Marcadores de georeferência
 
-$ Botões para exportação para CSV, PDF e PNG
+-> Botões para exportação para CSV, PDF e PNG
 
-$ Interação entre os componentes
+-> Interação entre os componentes
 
-$ Adaptação para mobile
+-> Adaptação para mobile
 
 **Sobre os Desafios:**
 
-! Marcador seja preenchido de acordo com os critérios(já configurados no sistema);
+ Marcador seja preenchido de acordo com os critérios(já configurados no sistema)
 
-! Dois formatos de pesquisa de dados
-  -> além do formulário;
-  -> clicar no marcados;
-  -> desenhar um retângulo na imagem e pesquisar varias estacoes;
+ ->formatos de pesquisa de dados:
+  * além do formulário
+  * clicar no marcados
+  * desenhar um retângulo na imagem e pesquisar varias estacoes
 
 ! Gráfico dinâmico
   -> Gráfico criado com base nos dados requisitados pelo usuário
