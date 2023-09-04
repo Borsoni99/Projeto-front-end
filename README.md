@@ -26,7 +26,7 @@ quais dados serão retornados ao usuário:
 
 **Sobre os Desafios:**
 
- *Marcador seja preenchido de acordo com os critérios(já configurados no sistema)
+ * Marcador seja preenchido de acordo com os critérios(já configurados no sistema)
 
  formatos de pesquisa de dados:
   * além do formulário
