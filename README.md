@@ -1,4 +1,4 @@
-#Projeto front-end para a empresa Nimbus
+<h2>Projeto front-end para a empresa Nimbus</h2>
 
 O grupo deverá confeccionar uma página que disponibilizará dados do sistema da empresa para os usuários/clientes
 
