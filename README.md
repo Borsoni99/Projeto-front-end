@@ -29,7 +29,7 @@ Quais dados serão retornados ao usuário:
   * Adaptação para mobile
 
 **Sobre os Desafios:** <br>
- * Marcador no mapa é alterado conforme os critérios(já configurados no sistema) <br>
+ * Marcador no mapa é alterado conforme os critérios(já configurados no sistema) 
 <br>
  Formatos de pesquisa de dados:
   * Além do formulário
