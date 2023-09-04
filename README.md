@@ -3,7 +3,7 @@
 **Sobre o Projeto:** <br>
 O grupo deverá confeccionar uma página que disponibilizará dados do sistema da empresa para os usuários/clientes
 
-O objetivo do sistema é prever com a ajuda de inteligencia artifical o clima, tempo, ondas, marés e etc. 
+O objetivo do sistema é prever com a ajuda de inteligencia artifical o clima, ondas, marés, ventos e etc. 
 com o propósito de vender este serviço para outras empresas como construtoras e etc.
 
 **Sobre os dados:** <br>
