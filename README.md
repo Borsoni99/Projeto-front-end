@@ -19,6 +19,7 @@ Quais dados serão retornados ao usuário:
   * Estacoes oceânicas
   * Outros sensores e métricas diferentes
   * Retorno do tipo Json ou CSV
+  * teremos acesso a endpoints para a obtenção dos dados(obs: não tem documentação)
 
 **Sobre as Funcionalidades:** <br>
  Criar uma pagina mais robusta, que disponibilize esses dados nos formatos:
