@@ -33,7 +33,7 @@ Quais dados serão retornados ao usuário:
 
  Formatos de pesquisa de dados:
   * Além do formulário
-  * Clicar no marcados
+  * Interagir com os marcadores
   * Desenhar um retângulo na imagem e pesquisar varias estações
 
  * Gráfico dinâmico:
