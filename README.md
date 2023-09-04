@@ -18,6 +18,7 @@ Quais dados serão retornados ao usuário:
   * Estacoes sísmicas
   * Estacoes oceânicas
   * Outros sensores e métricas diferentes
+  * Retorno do tipo Json ou CSV
 
 **Sobre as Funcionalidades:** <br>
  Criar uma pagina mais robusta, que disponibilize esses dados nos formatos:
@@ -29,12 +30,11 @@ Quais dados serão retornados ao usuário:
   * Adaptação para mobile
 
 **Sobre os Desafios:** <br>
- * Marcador no mapa é alterado conforme os critérios(já configurados no sistema)
-
  Formatos de pesquisa de dados:
   * Além do formulário
   * Interagir com os marcadores
   * Desenhar um retângulo na imagem e pesquisar varias estações
+  * Marcador no mapa é alterado conforme os critérios(já configurados no sistema)
 
  * Gráfico dinâmico:
    * Gráfico criado com base nos dados requisitados pelo usuário
