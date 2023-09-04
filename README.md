@@ -14,8 +14,10 @@ os dados absorvidos pela plataforma:
   * localização das obras
     
 quais dados serão retornados ao usuário:
-  lista de variáveis extensas, estacoes sísmicas, oceânicas, dentre outras(sensores)
-  semântica e métricas diferentes
+  * lista de variáveis extensas
+  * estacoes sísmicas
+  * estacoes oceânicas
+  * outros sensores e métricas diferentes
 
 **Sobre as Funcionalidades:** <br>
  Criar uma pagina mais robusta, que disponibilize esses dados nos formatos:
