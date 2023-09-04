@@ -16,10 +16,10 @@ quais dados serão retornados ao usuário:
   semântica e métricas diferentes
 
 **Sobre as Funcionalidades:** <br>
-- Criar uma pagina mais robusta, que disponibilize esses dados nos formatos:
-* Tabelas
-* Gráficos
-* Marcadores de georeferência
+-> Criar uma pagina mais robusta, que disponibilize esses dados nos formatos:
+  * Tabelas
+  * Gráficos
+  * Marcadores de georeferência
 
 $ Botões para exportação para CSV, PDF e PNG
 
