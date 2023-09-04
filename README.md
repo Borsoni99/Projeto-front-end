@@ -7,17 +7,17 @@ O objetivo do sistema é prever com a ajuda de inteligencia artifical o clima, t
 com o propósito de vender este serviço para outras empresas como construtoras e etc.
 
 **Sobre os dados:** <br>
-os dados absorvidos pela plataforma:
-  * radares
-  * raios
-  * estações
-  * localização das obras
+Os dados absorvidos pela plataforma:
+  * Radares
+  * Raios
+  * Estações
+  * Localização das obras
     
-quais dados serão retornados ao usuário:
-  * lista de variáveis extensas
-  * estacoes sísmicas
-  * estacoes oceânicas
-  * outros sensores e métricas diferentes
+Quais dados serão retornados ao usuário:
+  * Lista de variáveis extensas
+  * Estacoes sísmicas
+  * Estacoes oceânicas
+  * Outros sensores e métricas diferentes
 
 **Sobre as Funcionalidades:** <br>
  Criar uma pagina mais robusta, que disponibilize esses dados nos formatos:
@@ -31,13 +31,13 @@ quais dados serão retornados ao usuário:
 **Sobre os Desafios:** <br>
  * Marcador seja preenchido de acordo com os critérios(já configurados no sistema)
 
- formatos de pesquisa de dados:
-  * além do formulário
-  * clicar no marcados
-  * desenhar um retângulo na imagem e pesquisar varias estacoes
+ Formatos de pesquisa de dados:
+  * Além do formulário
+  * Clicar no marcados
+  * Desenhar um retângulo na imagem e pesquisar varias estacoes
 
  * Gráfico dinâmico:
    * Gráfico criado com base nos dados requisitados pelo usuário
 
  * Otimização no layout da tabela:
-   * criar um layout responsivo para que mantenha uma forma agradavel em um monitor e em um celular
+   * Criar um layout responsivo para que mantenha uma forma agradavel em um monitor e em um celular
