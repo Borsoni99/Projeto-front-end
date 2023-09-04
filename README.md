@@ -29,15 +29,15 @@ Quais dados serão retornados ao usuário:
   * Adaptação para mobile
 
 **Sobre os Desafios:** <br>
- * Marcador seja preenchido de acordo com os critérios(já configurados no sistema)
+ * Marcador no mapa é alterado conforme os critérios(já configurados no sistema)<br>
 
  Formatos de pesquisa de dados:
   * Além do formulário
   * Clicar no marcados
-  * Desenhar um retângulo na imagem e pesquisar varias estacoes
+  * Desenhar um retângulo na imagem e pesquisar varias estações
 
  * Gráfico dinâmico:
    * Gráfico criado com base nos dados requisitados pelo usuário
 
  * Otimização no layout da tabela:
-   * Criar um layout responsivo para que mantenha uma forma agradavel em um monitor e em um celular
+   * Criar um layout responsivo para que mantenha uma forma agradável em um monitor e em um celular
