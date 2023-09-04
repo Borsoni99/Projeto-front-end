@@ -9,23 +9,23 @@ com o propósito de vender este serviço para outras empresas como construtoras 
 **Sobre os dados:**
 
 os dados absorvidos pela plataforma:
-  -> radar, raios, estações, localização da obras;
+  -> radar, raios, estações, localização da obras
 
 quais dados serão retornados ao usuário:
   lista de variáveis extensas, estacoes sísmicas, oceânicas, dentre outras(sensores)
-  semântica e métricas diferentes;
+  semântica e métricas diferentes
 
-**Sobre as Funcionalidades:**
+**Sobre as Funcionalidades:** <br>
 - Criar uma pagina mais robusta, que disponibilize esses dados nos formatos:
-* Tabelas;
-* Gráficos;
-* Marcadores de georeferência;
+* Tabelas
+* Gráficos
+* Marcadores de georeferência
 
-$ Botões para exportação para CSV, PDF e PNG;
+$ Botões para exportação para CSV, PDF e PNG
 
-$ Interação entre os componentes;
+$ Interação entre os componentes
 
-$ Adaptação para mobile;
+$ Adaptação para mobile
 
 **Sobre os Desafios:**
 
