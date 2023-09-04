@@ -6,7 +6,7 @@ O grupo deverá confeccionar uma página que disponibilizará dados do sistema d
 O objetivo do sistema é prever com a ajuda de inteligencia artifical o clima, tempo, ondas, marés e etc. 
 com o propósito de vender este serviço para outras empresas como construtoras e etc.
 
-**Sobre os dados:**
+**Sobre os dados:** <br>
 os dados absorvidos pela plataforma:
   * radares
   * raios
@@ -26,8 +26,7 @@ quais dados serão retornados ao usuário:
   * Interação entre os componentes
   * Adaptação para mobile
 
-**Sobre os Desafios:**
-
+**Sobre os Desafios:** <br>
  * Marcador seja preenchido de acordo com os critérios(já configurados no sistema)
 
  formatos de pesquisa de dados:
