@@ -1,11 +1,12 @@
-<h2>Projeto front-end para a empresa Nimbus</h2>
+<h1>Projeto front-end para a empresa Nimbus</h1>
 
+<h3></h3>
 O grupo deverá confeccionar uma página que disponibilizará dados do sistema da empresa para os usuários/clientes
 
 O objetivo do sistema é prever com a ajuda de inteligencia artifical o clima, tempo, ondas, marés e etc. 
 com o propósito de vender este serviço para outras empresas como construtoras e etc.
 
-Sobre os dados: 
+<h3>Sobre os dados: </h3>
 
 $ os dados absorvidos pela plataforma:
 radar, raios, estações, localização da obras;
@@ -14,7 +15,7 @@ $ quais dados serão retornados ao usuário:
 lista de variáveis extensas, estacoes sísmicas, oceânicas, dentre outras(sensores)
 semântica e métricas diferentes;
 
-Sobre as Funcionalidades:
+<h3>Sobre as Funcionalidades:</h3>
 $ Criar uma pagina mais robusta, que disponibilize esses dados nos formatos:
 * Tabelas;
 * Gráficos;
@@ -26,7 +27,7 @@ $ Interação entre os componentes;
 
 $ Adaptação para mobile;
 
-Sobre os Desafios:
+<h3>Sobre os Desafios:</h3>
 
 ! Marcador seja preenchido de acordo com os critérios(já configurados no sistema);
 
@@ -39,7 +40,4 @@ Sobre os Desafios:
   -> Gráfico criado com base nos dados requisitados pelo usuário
 
 !Otimização no layout da tabela
-
-!Meios de comunicação do grupo
-  -> discord
-  -> whatsApp
+  -> criar um layout responsivo para que mantenha uma forma agradavel em um monitor e em um celular
