@@ -42,3 +42,41 @@ Quais dados serão retornados ao usuário:
 
  * Otimização no layout da tabela:
    * Criar um layout responsivo para que mantenha uma forma agradável em um monitor e em um celular
+
+<h2>5W2H</h2>
+
+**What - O que será feito?** <br>
+- Desenvolver um protótipo de uma página web, que permita uma melhor usabilidade para todos os clientes. 
+
+**Why - Por que será feito?** <br>
+A empresa Nimbus possui um sistema de previsão personalizada por região de interesse e um histórico de dados disponíveis para exportação de relatórios e laudos.
+
+-> A Nimbus deseja uma página robusta para melhorar a experiência dos usuários/clientes com os serviços da empresa. Com novas formas de disponibilizar dados, 
+adaptações e dinamicidade.
+
+**Where - Onde será feito?** <br>
+O desenvolvimento do projeto se dará por meio das reuniões da equipe, com apresentações semanais durante as aulas.
+A equipe utilizará o notion para aplicar os métodos ágeis.
+
+
+**When - Quando será feito?** <br>
+Durante o segundo semestre de 2023.
+
+**Who - Por quem será feito?** <br>
+
+O projeto será confeccionado pela equipe Lucky Roll. Os Integrantes são:
+Daniel (3° periodo Ciência de Dados)
+Henrique (3° periodo Engenharia da Computação)
+Hudson(3° periodo Engenharia da Computação)
+Thiago (3° periodo Ciência de Dados)
+Rodrigo (2° periodo Engenharia da Computação)
+
+
+**How - Como será feito?** <br>
+
+O projeto será desenvolvido por um grupo de estudantes ao longo do periodo 2023.2, 
+
+
+**How much - Quanto vai custar?** <br>
+
+O projeto não conta com verba ou auxílios
