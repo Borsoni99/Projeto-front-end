@@ -63,12 +63,12 @@ A equipe utilizará o notion para aplicar os métodos ágeis.
 Durante o segundo semestre de 2023.
 
 **Who - Por quem será feito?** <br>
- O projeto será confeccionado pela equipe Lucky Roll. Os Integrantes são:
-  * Daniel (3° periodo Ciência de Dados)
-  * Henrique (3° periodo Engenharia da Computação)
-  * Hudson(3° periodo Engenharia da Computação)
-  * Thiago (3° periodo Ciência de Dados)
-  * Rodrigo (2° periodo Engenharia da Computação)
+ O projeto será confeccionado pela equipe Lucky Roll. Os Integrantes são:<br>
+  * Daniel (3° periodo Ciência de Dados)<br>
+  * Henrique (3° periodo Engenharia da Computação)<br>
+  * Hudson(3° periodo Engenharia da Computação)<br>
+  * Thiago (3° periodo Ciência de Dados)<br>
+  * Rodrigo (2° periodo Engenharia da Computação)<br>
 
 
 **How - Como será feito?** <br>
