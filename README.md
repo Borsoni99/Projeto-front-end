@@ -65,11 +65,11 @@ Durante o segundo semestre de 2023.
 **Who - Por quem será feito?** <br>
 
 O projeto será confeccionado pela equipe Lucky Roll. Os Integrantes são:
-Daniel (3° periodo Ciência de Dados)
-Henrique (3° periodo Engenharia da Computação)
-Hudson(3° periodo Engenharia da Computação)
-Thiago (3° periodo Ciência de Dados)
-Rodrigo (2° periodo Engenharia da Computação)
+*Daniel (3° periodo Ciência de Dados)
+*Henrique (3° periodo Engenharia da Computação)
+*Hudson(3° periodo Engenharia da Computação)
+*Thiago (3° periodo Ciência de Dados)
+*Rodrigo (2° periodo Engenharia da Computação)
 
 
 **How - Como será feito?** <br>
