@@ -79,3 +79,24 @@ O projeto será desenvolvido por um grupo de estudantes ao longo do periodo 2023
 **How much - Quanto vai custar?** <br>
 
 O projeto não conta com verba ou auxílios
+
+***Requisitos Funcionais*** <br>
+Rf-1: Os dados devem estar disponíveis em formatos de: 
+tabela; gráficos.
+
+Rf-2: Botões que exportem os dados em diferentes modelos, como CSV, PDF e PNG.
+
+Rf-3: Botões que permitam filtrar os dados, como por exemplo, data, local, estação.
+
+Rf-4: Dinamicidade na página, marcadores georreferenciais que alteram as cores com base nos dados requisitados pelo cliente.
+
+
+***Requisitos Não Funcionais*** <br>
+***Portabilidade:***
+Pr-1: É essencial uma portabilidade para aparelhos mobile.
+
+***Usabilidade:***
+US-1: O cliente poderá interagir com marcadores no mapa, podendo visualizar informações importantes, como nome/tipo da estação e a situação atual.
+
+US-2: O cliente poderá desenhar um retangulo no mapa e pesquisar várias estações.
+
