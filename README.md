@@ -78,8 +78,6 @@ O projeto será desenvolvido por um grupo de estudantes ao longo do periodo 2023
 
 O projeto não conta com verba ou auxílios.
 
-
-<hr/>
 ***Requisitos Funcionais*** <br>
 Rf-1: Os dados devem estar disponíveis em formatos de: 
 tabela; gráficos.
