@@ -70,15 +70,13 @@ Durante o segundo semestre de 2023.
   * Thiago (3° periodo Ciência de Dados)<br>
   * Rodrigo (2° periodo Engenharia da Computação)<br>
 
-
 **How - Como será feito?** <br>
 
-O projeto será desenvolvido por um grupo de estudantes ao longo do periodo 2023.2, 
-
+O projeto será desenvolvido por um grupo de estudantes ao longo do periodo 2023.2, com o auxilio do professor.
 
 **How much - Quanto vai custar?** <br>
 
-O projeto não conta com verba ou auxílios
+O projeto não conta com verba ou auxílios.
 
 ***Requisitos Funcionais*** <br>
 Rf-1: Os dados devem estar disponíveis em formatos de: 
