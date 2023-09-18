@@ -84,6 +84,8 @@ Rn-2 O sistema deverá ser acessado pela web.
 
 Rn-3 O sistema deve possuir portabilidade para mobile.
 
+Rn4: O sistema deve estar disponível 24/7
+
 <h3>Propósito</h3>
 O propósito do sistema é fornecer uma ferramenta para a visualização e análise de dados históricos meteorológicos para que os usuários possam tomar decisões baseados nos dados visualizados.
 
