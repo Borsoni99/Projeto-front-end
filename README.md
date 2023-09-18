@@ -47,7 +47,7 @@ Quais dados serão retornados ao usuário:
 
 Pergunta | Resposta
 -------------|-------------
-What - O quê  | A Nimbus planeja remodelar a sua página que exporta o histórico de dados para seus clientes, tornando-o mais robusto. 
+What - O quê  | A empresa Nimbus possui o Chronos, um sistema que fornece dados para previsões personalizadas, diárias ou semanais, por área ou regiâo de interesse, o que facilita o planejamento do projeto e reduz a chance de atrasos no cronograma.
 Why - Por quê  | A empresa reconhece que sua plataforma atual é pouco intuitiva e deseja melhorar a experiência do cliente. Isso inclui otimizar o visual, responsividade e usabilidade do site, a fim de oferecer um serviço de maior qualidade.O objetivo do sistema é disponibilizar dados meteorológicos precisos para empresas e individuos que trabalham em areas que dependem desses tipos de dados.
 Where - Aonde | O sistema estará disponível tanto para desktops quanto para dispositivos móveis, garantindo acesso flexível. Os usuários poderão acessar os dados meteorológicos por meio de um site na web. 
 When - Quando | As empresas e indivíduos buscarão os dados meteorológicos sempre que planejarem uma obra ou precisarem de informações meteorológicas. O sistema poderá ser utilizado durante a execução da obra e também após a conclusão, para monitoramento contínuo.  
