@@ -85,7 +85,7 @@ Rn-3 O sistema deve possuir portabilidade para mobile.
 Rn-4 O sistema deve permitir desenhar um quadrado no mapa e porseguinte a seleção de multiplos marcadores.
 
 ***Propósito*** <br>
-O propósito do sistema é fornecer uma ferramenta para a visualização e análise de dados geográficos para que os usuários possam tomar decisões baseados nos dados visualizados.
+O propósito do sistema é fornecer uma ferramenta para a visualização e análise de dados meteorológicos para que os usuários possam tomar decisões baseados nos dados visualizados.
 
 ***Integrantes*** <br>
 Daniel Lloyd <br>
