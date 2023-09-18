@@ -44,6 +44,22 @@ Quais dados serão retornados ao usuário:
    * Criar um layout responsivo para que mantenha uma forma agradável em um monitor e em um celular
 
 <h2>5W2H</h2>
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+| What - O quê  | A Nimbus planeja remodelar a sua página que exporta o histórico de dados para seus clientes, tornando-o mais robusto. |
+| Why - Por quê  | A empresa reconhece que sua plataforma atual é pouco intuitiva e deseja melhorar a experiência do cliente.
+Isso inclui otimizar o visual, responsividade e usabilidade do site, a fim de oferecer um serviço de maior qualidade.
+O objetivo do sistema é disponibilizar dados meteorológicos precisos para empresas e individuos que trabalham em areas que dependem desses tipos de dados.  |
+| Where - Aonde | O sistema estará disponível tanto para desktops quanto para dispositivos móveis, garantindo acesso flexível.
+Os usuários poderão acessar os dados meteorológicos por meio de um site na web. |
+| When - Quando | As empresas e indivíduos buscarão os dados meteorológicos sempre que planejarem uma obra ou precisarem de informações meteorológicas.
+O sistema poderá ser utilizado durante a execução da obra e também após a conclusão, para monitoramento contínuo.  |
+| Who - Quem | O sistema será usado por empresas e indivíduos que necessitam de dados meteorológicos precisos.
+Esses usuários estão envolvidos em obras, áreas de meteorologia, estaleiros e outros setores que dependem de informações meteorológicas confiáveis.  |
+| How - Como | O sistema absorve dados meteorológicos e de radar, incluindo dados de raios, informações de estações meteorológicas e dados das obras e localizações a serem monitoradas.
+Ele utiliza um endpoint com estações pré-listadas para coletar os dados.
+Os dados serão apresentados aos usuários por meio de tabelas, gráficos e um mapa com marcadores georreferenciados.
+O acesso ao sistema será realizado por meio de um site na web, que será otimizado para oferecer uma experiência mais intuitiva e responsiva aos clientes.  |
 
 **What - O que será feito?** <br>
 - Desenvolver um protótipo de uma página web, que permita uma melhor usabilidade para todos os clientes. 
