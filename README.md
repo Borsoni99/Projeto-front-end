@@ -84,10 +84,11 @@ Rn-3 O sistema deve possuir portabilidade para mobile.
 
 Rn-4 O sistema deve permitir desenhar um quadrado no mapa possibilitando a seleção de multiplos marcadores.
 
-***Propósito*** <br>
+<h3>Propósito</h3>
 O propósito do sistema é fornecer uma ferramenta para a visualização e análise de dados meteorológicos para que os usuários possam tomar decisões baseados nos dados visualizados.
 
-***Integrantes*** <br>
+<h3>Integrantes</h3>
+
 Daniel Lloyd <br>
 Henrique Dantas <br>
 Hudson Assumpção <br>
