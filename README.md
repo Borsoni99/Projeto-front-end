@@ -44,65 +44,43 @@ Quais dados serão retornados ao usuário:
    * Criar um layout responsivo para que mantenha uma forma agradável em um monitor e em um celular
 
 <h2>5W2H</h2>
-| 5w2h | Resposta |
-|-------------|-------------|
-| What - O quê  | A Nimbus planeja remodelar a sua página que exporta o histórico de dados para seus clientes, tornando-o mais robusto. |<br>
-| Why - Por quê  | A empresa reconhece que sua plataforma atual é pouco intuitiva e deseja melhorar a experiência do cliente. Isso inclui otimizar o visual, responsividade e usabilidade do site, a fim de oferecer um serviço de maior qualidade.O objetivo do sistema é disponibilizar dados meteorológicos precisos para empresas e individuos que trabalham em areas que dependem desses tipos de dados.  |
-| Where - Aonde | O sistema estará disponível tanto para desktops quanto para dispositivos móveis, garantindo acesso flexível. Os usuários poderão acessar os dados meteorológicos por meio de um site na web. |
-| When - Quando | As empresas e indivíduos buscarão os dados meteorológicos sempre que planejarem uma obra ou precisarem de informações meteorológicas. O sistema poderá ser utilizado durante a execução da obra e também após a conclusão, para monitoramento contínuo.  |
-| Who - Quem | O sistema será usado por empresas e indivíduos que necessitam de dados meteorológicos precisos. Esses usuários estão envolvidos em obras, áreas de meteorologia, estaleiros e outros setores que dependem de informações meteorológicas confiáveis.  |
-| How - Como | O sistema absorve dados meteorológicos e de radar, incluindo dados de raios, informações de estações meteorológicas e dados das obras e localizações a serem monitoradas. Ele utiliza um endpoint com estações pré-listadas para coletar os dados. Os dados serão apresentados aos usuários por meio de tabelas, gráficos e um mapa com marcadores georreferenciados. O acesso ao sistema será realizado por meio de um site na web, que será otimizado para oferecer uma experiência mais intuitiva e responsiva aos clientes.  |
 
-**What - O que será feito?** <br>
-- Desenvolver um protótipo de uma página web, que permita uma melhor usabilidade para todos os clientes. 
+Pergunta | Resposta
+-------------|-------------
+What - O quê  | A Nimbus planeja remodelar a sua página que exporta o histórico de dados para seus clientes, tornando-o mais robusto. 
+Why - Por quê  | A empresa reconhece que sua plataforma atual é pouco intuitiva e deseja melhorar a experiência do cliente. Isso inclui otimizar o visual, responsividade e usabilidade do site, a fim de oferecer um serviço de maior qualidade.O objetivo do sistema é disponibilizar dados meteorológicos precisos para empresas e individuos que trabalham em areas que dependem desses tipos de dados.
+Where - Aonde | O sistema estará disponível tanto para desktops quanto para dispositivos móveis, garantindo acesso flexível. Os usuários poderão acessar os dados meteorológicos por meio de um site na web. 
+When - Quando | As empresas e indivíduos buscarão os dados meteorológicos sempre que planejarem uma obra ou precisarem de informações meteorológicas. O sistema poderá ser utilizado durante a execução da obra e também após a conclusão, para monitoramento contínuo.  
+Who - Quem | O sistema será usado por empresas e indivíduos que necessitam de dados meteorológicos precisos. Esses usuários estão envolvidos em obras, áreas de meteorologia, estaleiros e outros setores que dependem de informações meteorológicas confiáveis. 
+How - Como | O sistema absorve dados meteorológicos e de radar, incluindo dados de raios, informações de estações meteorológicas e dados das obras e localizações a serem monitoradas. Ele utiliza um endpoint com estações pré-listadas para coletar os dados. Os dados serão apresentados aos usuários por meio de tabelas, gráficos e um mapa com marcadores georreferenciados. O acesso ao sistema será realizado por meio de um site na web, que será otimizado para oferecer uma experiência mais intuitiva e responsiva aos clientes.  
 
-**Why - Por que será feito?** <br>
-A empresa Nimbus possui um sistema de previsão personalizada por região de interesse e um histórico de dados disponíveis para exportação de relatórios e laudos.
-
--> A Nimbus deseja uma página robusta para melhorar a experiência dos usuários/clientes com os serviços da empresa. Com novas formas de disponibilizar dados, 
-adaptações e dinamicidade.
-
-**Where - Onde será feito?** <br>
-O desenvolvimento do projeto se dará por meio das reuniões da equipe, com apresentações semanais durante as aulas.
-A equipe utilizará o notion para aplicar os métodos ágeis.
+<h2>Requisitos</h2>
 
 
-**When - Quando será feito?** <br>
-Durante o segundo semestre de 2023.
+***Requisitos Funcionais***
 
-**Who - Por quem será feito?** <br>
- O projeto será confeccionado pela equipe Lucky Roll. Os Integrantes são:<br>
-  * Daniel (3° periodo Ciência de Dados)<br>
-  * Henrique (3° periodo Engenharia da Computação)<br>
-  * Hudson (3° periodo Engenharia da Computação)<br>
-  * Thiago (3° periodo Ciência de Dados)<br>
-  * Ricardo (2° periodo Engenharia da Computação)<br>
+RF-1 O sistema deve apresentar dados por meio de tabelas, gráficos e marcadores georreferenciados em um mapa.
 
-**How - Como será feito?** <br>
+Rf-2 O sistema deve permitir  a exportação dos dados em formatos diferentes. (CSV, PDF e PNG).
 
-O projeto será desenvolvido por um grupo de estudantes ao longo do periodo 2023.2, com o auxilio do professor.
+Rf-3 O sistema deve permitir a busca de dados específicos.
 
-**How much - Quanto vai custar?** <br>
+Rf-4 O sistema deve incluir um mapa interativo com marcadores para cada ponto de monitoramento e estação.
 
-O projeto não conta com verba ou auxílios.
+RF-5 O sistema deve disponibilizar relatorios de uma estação, caso selecionada no mapa.
 
-***Requisitos Funcionais*** <br>
-Rf-1: Os dados devem estar disponíveis em formatos de: 
-tabela; gráficos.
+Rf-6 O sistema deve permitir a interatividade com os gráficos.
 
-Rf-2: Botões que exportem os dados em diferentes modelos, como CSV, PDF e PNG.
-
-Rf-3: Botões que permitam filtrar os dados, como por exemplo, data, local, estação.
-
-Rf-4: Dinamicidade na página, marcadores georreferenciais que alteram as cores com base nos dados requisitados pelo cliente.
+Rf-7 O sistema deve possibilitar a escolha das variáveis a serem exibidas simultaneamente.
 
 
-***Requisitos Não Funcionais*** <br>
-***Portabilidade:***
-Pr-1: É essencial uma portabilidade para aparelhos mobile.
+***Requisitos Não Funcionais***
 
-***Usabilidade:***
-US-1: O cliente poderá interagir com marcadores no mapa, podendo visualizar informações importantes, como nome/tipo da estação e a situação atual.
+Rn-1 O sistema deve apresentar um novo layout, melhorando a experiência do usuário.
 
-US-2: O cliente poderá desenhar um retangulo no mapa e pesquisar várias estações.
+Rn-2 O sistema deverá ser acessado pela web.
+
+Rn-3 O sistema deve possuir portabilidade para mobile.
+
+Rn-4 O sistema deve permitir desenhar um quadrado no mapa e porseguinte a seleção de multiplos marcadores.
 
