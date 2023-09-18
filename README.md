@@ -73,6 +73,8 @@ Rf-6 O sistema deve permitir a interatividade com os gráficos.
 
 Rf-7 O sistema deve possibilitar a escolha das variáveis a serem exibidas simultaneamente.
 
+Rf-8 O sistema deve permitir desenhar um quadrado no mapa possibilitando a seleção de multiplos marcadores.
+
 
 ***Requisitos Não Funcionais***
 
@@ -81,8 +83,6 @@ Rn-1 O sistema deve apresentar um novo layout, melhorando a experiência do usu�
 Rn-2 O sistema deverá ser acessado pela web.
 
 Rn-3 O sistema deve possuir portabilidade para mobile.
-
-Rn-4 O sistema deve permitir desenhar um quadrado no mapa possibilitando a seleção de multiplos marcadores.
 
 <h3>Propósito</h3>
 O propósito do sistema é fornecer uma ferramenta para a visualização e análise de dados meteorológicos para que os usuários possam tomar decisões baseados nos dados visualizados.
