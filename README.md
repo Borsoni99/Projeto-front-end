@@ -82,7 +82,7 @@ Rn-2 O sistema deverá ser acessado pela web.
 
 Rn-3 O sistema deve possuir portabilidade para mobile.
 
-Rn-4 O sistema deve permitir desenhar um quadrado no mapa e porseguinte a seleção de multiplos marcadores.
+Rn-4 O sistema deve permitir desenhar um quadrado no mapa possibilitando a seleção de multiplos marcadores.
 
 ***Propósito*** <br>
 O propósito do sistema é fornecer uma ferramenta para a visualização e análise de dados meteorológicos para que os usuários possam tomar decisões baseados nos dados visualizados.
