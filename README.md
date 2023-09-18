@@ -85,8 +85,8 @@ Rn-3 O sistema deve possuir portabilidade para mobile.
 Rn-4 O sistema deve permitir desenhar um quadrado no mapa e porseguinte a seleção de multiplos marcadores.
 
 ***Integrantes*** <br>
-Daniel Lloyd, <br>
-Henrique Dantas, <br>
-Hudson Assumpção, <br>
-Thiago Borsoni, <br>
-Ricardo Castro,
+Daniel Lloyd <br>
+Henrique Dantas <br>
+Hudson Assumpção <br>
+Thiago Borsoni <br>
+Ricardo Castro
