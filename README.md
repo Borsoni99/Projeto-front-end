@@ -32,7 +32,7 @@ Quais dados serão retornados:
 
 **Sobre os Desafios:** <br>
  Formatos de pesquisa de dados:
-  * Além do formulário
+  * Formulário com os dados
   * Interagir com os marcadores
   * Desenhar um retângulo na imagem e pesquisar varias estações
   * Marcador no mapa é alterado conforme os critérios(já configurados no sistema)
