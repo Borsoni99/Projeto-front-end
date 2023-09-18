@@ -13,7 +13,7 @@ Os dados absorvidos pela plataforma:
   * Estações
   * Localização das obras
     
-Quais dados serão retornados:
+Quais dados serão retornados pela plataforma:
   * Lista de variáveis extensas
   * Estacoes sísmicas
   * Estacoes oceânicas
