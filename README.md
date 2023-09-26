@@ -4,7 +4,7 @@
 
 Pergunta | Resposta
 -------------|-------------
-What - O quê  | A Nimbus planeja remodelar a sua página que exporta o histórico de dados para seus clientes, com mais formas de visualizar os dados, como gráficos e tabelas, e um mapa com marcadores interativos.
+What - O quê  | Remodelar a página que exporta o histórico de dados para os clientes, com mais formas de visualizar os dados, como gráficos e tabelas, e um mapa com marcadores interativos.
 Why - Por quê  | A plataforma atual é pouco intuitiva e deve ser aperfeiçoada para melhorar a experiência do cliente. Isso inclui otimizar o visual, responsividade e usabilidade do site, a fim de oferecer um serviço de maior qualidade.O objetivo do sistema é disponibilizar dados meteorológicos precisos para empresas e individuos que trabalham em areas que dependem desses tipos de dados.
 Where - Aonde | O sistema estará disponível tanto para desktops quanto para dispositivos móveis, garantindo acesso flexível. Os usuários poderão acessar os dados meteorológicos por meio de um site na web. 
 When - Quando | As empresas e indivíduos buscarão os dados meteorológicos sempre que planejarem uma obra ou precisarem de informações meteorológicas. O sistema poderá ser utilizado durante a execução da obra e também após a conclusão, para monitoramento contínuo.  
@@ -46,16 +46,18 @@ Rn4: O sistema deve estar disponível 24/7
 <h3>Propósito</h3>
 O propósito do sistema é fornecer uma ferramenta para a visualização, exportação e análise de dados históricos meteorológicos para que os usuários possam tomar decisões baseados nos dados visualizados.
 
-**Caso de Uso 1: Visualização e Análise de Dados**
+<h2>Casos de Uso</h2>
 
-- **Nome**: Visualização e Análise de Dados
+**Caso de Uso 1: Visualizar Dados**
+
+- **Nome**: Visualizar Dados
 - **Ator Principal**: Usuário
 - **Pré-Condições**: O usuário deve estar logado no sistema.
 - **Fluxo Básico**:
    1. O usuário acessa a opção de "Visualizar Dados" no sistema.
-   2. O sistema apresenta opções para escolher o tipo de visualização desejado.
+   2. O sistema apresenta opções para escolher o tipo de visualização desejado, como tabela, gráfico e mapa com marcadores.
    3. O usuário seleciona o tipo de visualização desejado.
-   4. O sistema oferece opções de filtro para refinar os dados a serem exibidos.
+   4. O sistema oferece opções de filtro para refinar os dados a serem exibidos, como data, volume de chuva, estação.
    5. O usuário configura os filtros de acordo com suas necessidades.
    6. O sistema exibe os dados conforme as configurações selecionadas.
 - **Pós-Condições**: 
@@ -71,9 +73,9 @@ O propósito do sistema é fornecer uma ferramenta para a visualização, export
 - **Pré-Condições**: O usuário deve estar logado no sistema.
 - **Fluxo Básico**:
    1. O usuário acessa a opção de "Visualizar Dados" no sistema.
-   2. O sistema apresenta opções para escolher o tipo de visualização desejado.
+   2. O sistema apresenta opções para escolher o tipo de visualização desejado, como tabela, gráfico e mapa com marcadores.
    3. O usuário seleciona o tipo de visualização desejado.
-   4. O sistema oferece opções de filtro para refinar os dados a serem exibidos.
+   4. O sistema oferece opções de filtro para refinar os dados a serem exibidos, como data, volume de chuva, estação.
    5. O usuário configura os filtros de acordo com suas necessidades.
    6. O sistema exibe os dados conforme as configurações selecionadas.
    7. O usuário seleciona a opção "Exportar Dados".
