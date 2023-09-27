@@ -84,6 +84,9 @@ O propósito do sistema é fornecer uma ferramenta para a visualização, export
    - Os dados exportados estão em um formato ou local especificado pelo usuário.
    - O usuário recebe uma confirmação de que a exportação foi concluída com sucesso.
    - Os dados exportados podem ser acessados ou salvos pelo usuário conforme necessário.
+ 
+<h3>Protótipo</h3>
+https://www.figma.com/file/jxRFPYQf6Eg4oChuBTZlwZ/Figma-Website-Template---Landing-Page-(Free)-(Community)?type=design&node-id=0-88&mode=design&t=CAmeapW9ucOhHh7A-0
 
 <h3>Integrantes</h3>
 
