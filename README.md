@@ -1,54 +1,11 @@
 <h1>Projeto front-end para a empresa Nimbus</h1>
 
-**Sobre o Projeto:** <br>
-O grupo deverá confeccionar uma página que disponibilizará dados do sistema da empresa para os usuários/clientes
-
-O objetivo do sistema é prever com a ajuda de inteligencia artifical o clima, ondas, marés, ventos e etc. 
-com o propósito de vender este serviço para outras empresas como construtoras e etc.
-
-**Sobre os dados:** <br>
-Os dados absorvidos pela plataforma:
-  * Radares
-  * Raios
-  * Estações
-  * Localização das obras
-    
-Quais dados serão retornados pela plataforma:
-  * Lista de variáveis extensas
-  * Estacoes sísmicas
-  * Estacoes oceânicas
-  * Outros sensores e métricas diferentes
-  * Retorno do tipo Json ou CSV
-  * teremos acesso a endpoints para a obtenção dos dados(obs: não tem documentação)
-
-**Sobre as Funcionalidades:** <br>
- Criar uma pagina mais robusta, que disponibilize esses dados nos formatos:
-  * Tabelas
-  * Gráficos
-  * Marcadores de georeferência
-  * Botões para exportação para CSV, PDF e PNG
-  * Interação entre os componentes
-  * Adaptação para mobile
-
-**Sobre os Desafios:** <br>
- Formatos de pesquisa de dados:
-  * Formulário com os dados
-  * Interagir com os marcadores
-  * Desenhar um retângulo na imagem e pesquisar varias estações
-  * Marcador no mapa é alterado conforme os critérios(já configurados no sistema)
-
- * Gráfico dinâmico:
-   * Gráfico criado com base nos dados requisitados pelo usuário
-
- * Otimização no layout da tabela:
-   * Criar um layout responsivo para que mantenha uma forma agradável em um monitor e em um celular
-
 <h2>5W2H</h2>
 
 Pergunta | Resposta
 -------------|-------------
-What - O quê  | A empresa Nimbus possui o Chronos, um sistema que fornece dados para previsões personalizadas, diárias ou semanais, por área ou regiâo de interesse, o que facilita o planejamento do projeto e reduz a chance de atrasos no cronograma.
-Why - Por quê  | A empresa reconhece que sua plataforma atual é pouco intuitiva e deseja melhorar a experiência do cliente. Isso inclui otimizar o visual, responsividade e usabilidade do site, a fim de oferecer um serviço de maior qualidade.O objetivo do sistema é disponibilizar dados meteorológicos precisos para empresas e individuos que trabalham em areas que dependem desses tipos de dados.
+What - O quê  | Remodelar a página que exporta o histórico de dados para os clientes, com mais formas de visualizar os dados, como gráficos e tabelas, e um mapa com marcadores interativos.
+Why - Por quê  | A plataforma atual é pouco intuitiva e deve ser aperfeiçoada para melhorar a experiência do cliente. Isso inclui otimizar o visual, responsividade e usabilidade do site, a fim de oferecer um serviço de maior qualidade.O objetivo do sistema é disponibilizar dados meteorológicos precisos para empresas e individuos que trabalham em areas que dependem desses tipos de dados.
 Where - Aonde | O sistema estará disponível tanto para desktops quanto para dispositivos móveis, garantindo acesso flexível. Os usuários poderão acessar os dados meteorológicos por meio de um site na web. 
 When - Quando | As empresas e indivíduos buscarão os dados meteorológicos sempre que planejarem uma obra ou precisarem de informações meteorológicas. O sistema poderá ser utilizado durante a execução da obra e também após a conclusão, para monitoramento contínuo.  
 Who - Quem | O sistema será usado por empresas e indivíduos que necessitam de dados meteorológicos precisos. Esses usuários estão envolvidos em obras, áreas de meteorologia, estaleiros e outros setores que dependem de informações meteorológicas confiáveis. 
@@ -88,6 +45,45 @@ Rn4: O sistema deve estar disponível 24/7
 
 <h3>Propósito</h3>
 O propósito do sistema é fornecer uma ferramenta para a visualização, exportação e análise de dados históricos meteorológicos para que os usuários possam tomar decisões baseados nos dados visualizados.
+
+<h2>Casos de Uso</h2>
+
+**Caso de Uso 1: Visualizar Dados**
+
+- **Nome**: Visualizar Dados
+- **Ator Principal**: Usuário
+- **Pré-Condições**: O usuário deve estar logado no sistema.
+- **Fluxo Básico**:
+   1. O usuário acessa a opção de "Visualizar Dados" no sistema.
+   2. O sistema apresenta opções para escolher o tipo de visualização desejado, como tabela, gráfico e mapa com marcadores.
+   3. O usuário seleciona o tipo de visualização desejado.
+   4. O sistema oferece opções de filtro para refinar os dados a serem exibidos, como data, volume de chuva, estação.
+   5. O usuário configura os filtros de acordo com suas necessidades.
+   6. O sistema exibe os dados conforme as configurações selecionadas.
+- **Pós-Condições**: 
+   - Os dados são exibidos de acordo com as escolhas do usuário.
+   - O usuário pode interagir com os dados visualizados.
+   - As opções de filtro permitem ao usuário ajustar os dados exibidos conforme necessário.
+   - A visualização dos dados é concluída com sucesso.
+
+**Caso de Uso 2: Exportar Dados**
+
+- **Nome**: Exportar Dados
+- **Ator Principal**: Usuário
+- **Pré-Condições**: O usuário deve estar logado no sistema.
+- **Fluxo Básico**:
+   1. O usuário acessa a opção de "Visualizar Dados" no sistema.
+   2. O sistema apresenta opções para escolher o tipo de visualização desejado, como tabela, gráfico e mapa com marcadores.
+   3. O usuário seleciona o tipo de visualização desejado.
+   4. O sistema oferece opções de filtro para refinar os dados a serem exibidos, como data, volume de chuva, estação.
+   5. O usuário configura os filtros de acordo com suas necessidades.
+   6. O sistema exibe os dados conforme as configurações selecionadas.
+   7. O usuário seleciona a opção "Exportar Dados" e o formato a ser exportado (PDF, PNG, CSV).
+- **Pós-Condições**: 
+   - O sistema permite ao usuário exportar os dados conforme selecionado.
+   - Os dados exportados estão em um formato ou local especificado pelo usuário.
+   - O usuário recebe uma confirmação de que a exportação foi concluída com sucesso.
+   - Os dados exportados podem ser acessados ou salvos pelo usuário conforme necessário.
 
 <h3>Integrantes</h3>
 
