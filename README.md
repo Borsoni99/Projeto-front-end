@@ -78,7 +78,7 @@ O propósito do sistema é fornecer uma ferramenta para a visualização, export
    4. O sistema oferece opções de filtro para refinar os dados a serem exibidos, como data, volume de chuva, estação.
    5. O usuário configura os filtros de acordo com suas necessidades.
    6. O sistema exibe os dados conforme as configurações selecionadas.
-   7. O usuário seleciona a opção "Exportar Dados".
+   7. O usuário seleciona a opção "Exportar Dados" e o formato a ser exportado (PDF, PNG, CSV).
 - **Pós-Condições**: 
    - O sistema permite ao usuário exportar os dados conforme selecionado.
    - Os dados exportados estão em um formato ou local especificado pelo usuário.
