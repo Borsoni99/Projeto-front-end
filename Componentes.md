@@ -14,8 +14,6 @@
 
 https://codesandbox.io/s/react-mapa-yxyxsq?file=/src/App.js:58-59
 
-https://codesandbox.io/s/charming-browser-yxyxsq?file=/src/App.js
-
 <hr/>
 
 <h2>Componente de Interatividade com Gráficos:</h2>
@@ -39,8 +37,9 @@ https://codesandbox.io/s/sweet-brahmagupta-2rsrld?file=/src/App.js
   
 -> D3.js: https://d3js.org/
 
--> React-Table: https://github.com/TanStack/table/tree/v7
+-> TanStack-React-Table: https://github.com/TanStack/table/tree/v7
 
--> exemplo de código utilizando D3.js:
+-> exemplo de código utilizando TanStack-React-Table:
 
-#TODO
+https://codesandbox.io/s/react-tabela-qczdcn?file=/src/App.js
+
