@@ -91,6 +91,10 @@ https://www.figma.com/file/jxRFPYQf6Eg4oChuBTZlwZ/Figma-Website-Template---Landi
 <h3>Link para o código do projeto:</h3>
 https://github.com/Borsoni99/proj-Front-End-Codigo.git
 
+<h3>Link para os Componentes</h3>
+
+[Componentes](./Componentes.md)
+
 <h3>Integrantes</h3>
 
 Daniel Lloyd <br>
