@@ -3,6 +3,7 @@
 <h2>Componente Mapa Interativo:</h2>
 
 <h3>Bibliotecas encontradas:</h3>
+-> OpenStreetMap: https://www.openstreetmap.org/#map=4/-15.13/-53.19
 -> Leaflet: https://leafletjs.com  
 
 -> GooglemapsReact: https://developers.google.com/maps/documentation/javascript/react-map?hl=pt-br
