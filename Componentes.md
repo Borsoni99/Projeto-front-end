@@ -12,7 +12,7 @@
 -> ReactSimpleMaps: https://www.react-simple-maps.io/
 
 
--> exemplo de código utilizando LeafLet:
+-> exemplo de código utilizando LeafLet e OpenStreetMap:
 
 https://codesandbox.io/s/react-mapa-yxyxsq?file=/src/App.js:58-59
 
